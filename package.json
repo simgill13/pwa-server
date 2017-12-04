@@ -11,7 +11,9 @@
     "express": "^4.14.0",
     "mongoose": "^4.7.2",
     "twilio": "^3.6.3",
-    "morgan": "^1.7.0"
+    "morgan": "^1.7.0",
+    "cors": "^2.8.4",
+    "express-nedb-rest": "^1.2.4"
   },
   "devDependencies": {
     "chai": "^3.5.0",
